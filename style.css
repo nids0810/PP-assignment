@@ -1,0 +1,36 @@
+body {
+    background: #F5F7FA;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#main-feed {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#main-feed h2 {
+    text-align: center;
+    color: #052066;
+}
+
+.feed-object {
+    width: 100%;
+    border-radius: 5px;
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #f1f1f1;
+}
+
+.feed-object a {
+    color: #000;
+}
+
+.feed-object a:hover {
+    color: #0A9EDF;
+}
+
+.feed-object a.user-name {
+    text-decoration: none;
+}
